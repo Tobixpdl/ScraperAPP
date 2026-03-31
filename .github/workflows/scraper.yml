@@ -11,15 +11,21 @@ jobs:
 
     steps:
       - name: Clonar repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Instalar Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
 
       - name: Instalar dependencias
         run: npm install
 
+      - name: Instalar Chromium de Playwright
+        run: npx playwright install --with-deps chromium
+
       - name: Ejecutar scraper
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: node index.js
