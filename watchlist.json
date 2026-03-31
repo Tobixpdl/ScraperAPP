@@ -1,0 +1,192 @@
+[
+  {
+    "id": "hg-gigabyte-b650m-d3hp-ddr5-am5",
+    "nombre": "Motherboard Gigabyte B650M D3HP DDR5 AM5",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=Motherboard+Gigabyte+B650M+D3HP+DDR5+AM5",
+    "targetPrice": 183345,
+    "mandarMensajeSoloAlBajar": false,
+    "maxPages": 1,
+    "match": { "includes": ["gigabyte","b650m","d3hp"], "excludes": ["d2hp"] }
+  },
+  {
+    "id": "hg-ryzen-5-7600",
+    "nombre": "Ryzen 5 7600",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=Ryzen+5+7600",
+    "targetPrice": 303000,
+    "mandarMensajeSoloAlBajar": false,
+    "maxPages": 1,
+    "match": { "includes": ["ryzen","7600"], "excludes": ["7600x"] }
+  },
+  {
+    "id": "cg-rx-9070-xt-16gb",
+    "nombre": "RX 9070 XT 16GB",
+    "site": "compragamer",
+    "url": "https://compragamer.com/productos?criterio=RX%209070%20XT%2016GB&sort=lower_price",
+    "targetPrice": 1205000,
+    "mandarMensajeSoloAlBajar": false,
+    "maxPages": 1,
+    "match": { "includes": ["rx","9070","xt","16gb"], "excludes": [] }
+  },
+  {
+    "id": "hg-xpg-pylon-750",
+    "nombre": "XPG Pylon 750",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=XPG+Pylon+750",
+    "targetPrice": 99000,
+    "mandarMensajeSoloAlBajar": false,
+    "maxPages": 1,
+    "match": { "includes": ["xpg","pylon","750"], "excludes": [] }
+  },
+  {
+    "id": "cg-rtx-5070-ti",
+    "nombre": "RTX 5070 Ti",
+    "site": "compragamer",
+    "url": "https://compragamer.com/productos?criterio=rtx%205070%20ti&sort=lower_price",
+    "targetPrice": 1700000,
+    "mandarMensajeSoloAlBajar": false,
+    "maxPages": 1,
+    "match": { "includes": ["rtx","5070","ti"], "excludes": [] }
+  },
+  {
+    "id": "hg-rx-9060-xt-16gb",
+    "nombre": "RX 9060 XT 16GB",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=RX+9060+XT+16GB",
+    "targetPrice": 759900,
+    "mandarMensajeSoloAlBajar": false,
+    "maxPages": 1,
+    "match": { "includes": ["rx","9060","xt","16gb"], "excludes": [] }
+  },
+  {
+    "id": "cg-fuente-750w",
+    "nombre": "Fuentes 750W",
+    "site": "compragamer",
+    "url": "https://compragamer.com/productos?sort=lower_price&cate=34&filtros=150:750",
+    "targetPrice": 77000,
+    "mandarMensajeSoloAlBajar": true,
+    "maxPages": 1,
+    "match": { "includes": ["750"], "excludes": [] }
+  },
+  {
+    "id": "hg-ryzen-5-9600x",
+    "nombre": "Ryzen 5 9600X",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=Ryzen+5+9600x",
+    "targetPrice": 345550,
+    "mandarMensajeSoloAlBajar": false,
+    "maxPages": 1,
+    "match": { "includes": ["ryzen","9600x"], "excludes": [] }
+  },
+  {
+    "id": "hg-rtx-5070",
+    "nombre": "RTX 5070",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=RTX+5070",
+    "targetPrice": 1050000,
+    "mandarMensajeSoloAlBajar": false,
+    "maxPages": 1,
+    "match": { "includes": ["rtx","5070"], "excludes": ["5070 ti"] }
+  },
+  {
+    "id": "hg-ram-ddr5-16gb",
+    "nombre": "RAM DDR5 16GB",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=ram+ddr5+16gb+",
+    "targetPrice": 288000,
+    "mandarMensajeSoloAlBajar": false,
+    "maxPages": 3,
+    "match": { "includes": ["ddr5","16gb"], "excludes": [] }
+  },
+  {
+    "id": "hg-asus-prime-b650m-f",
+    "nombre": "ASUS Prime B650M-F",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=ASUS+Prime+B650M-F",
+    "targetPrice": 153000,
+    "mandarMensajeSoloAlBajar": false,
+    "maxPages": 1,
+    "match": { "includes": ["asus","prime","b650m-f"], "excludes": [] }
+  },
+  {
+    "id": "hg-ssd-1tb-nvme",
+    "nombre": "SSD 1TB NVMe WD Green SN3000",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=ssd+nvme+wd+green+sn3000+1tb",
+    "targetPrice": 254000,
+    "mandarMensajeSoloAlBajar": true,
+    "maxPages": 1,
+    "match": { "includes": ["1tb","nvme"], "excludes": [] }
+  },
+  {
+    "id": "hg-ssd-512gb-nvme",
+    "nombre": "SSD 500GB NVMe",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=ssd+nvme+wd+green+sn3000+500gb",
+    "targetPrice": 158000,
+    "mandarMensajeSoloAlBajar": true,
+    "maxPages": 3,
+    "match": { "includes": ["500gb","nvme"], "excludes": [] }
+  },
+  {
+    "id": "hg-ssd-1tb-nvme-kingston",
+    "nombre": "SSD 1tb NVMe Kingston",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=ssd+1tb+nv3+kingston",
+    "targetPrice": 259000,
+    "mandarMensajeSoloAlBajar": true,
+    "maxPages": 3,
+    "match": { "includes": ["1tb","nvme"], "excludes": [] }
+  },
+  {
+    "id": "hg-ssd-500gb-nvme-kingston",
+    "nombre": "SSD 500gb NVMe Kingston",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=ssd+500gb+nv3+kingston",
+    "targetPrice": 166000,
+    "mandarMensajeSoloAlBajar": true,
+    "maxPages": 3,
+    "match": { "includes": ["500gb","nvme"], "excludes": [] }
+  },
+  {
+    "id": "hg-monitor-qhd",
+    "nombre": "Monitor QHD",
+    "site": "hardgamers",
+    "url": "https://www.hardgamers.com.ar/search?text=monitor+qhd",
+    "targetPrice": 255000,
+    "mandarMensajeSoloAlBajar": true,
+    "maxPages": 1,
+    "match": { "includes": ["monitor","qhd"], "excludes": [] }
+  },
+  {
+    "id": "cg-gpu-cate-6",
+    "nombre": "Placas de video cate 6",
+    "site": "compragamer",
+    "url": "https://compragamer.com/productos?sort=lower_price&cate=6",
+    "targetPrice": 3750000,
+    "mandarMensajeSoloAlBajar": true,
+    "maxPages": 1,
+    "match": { "includes": [], "excludes": [] }
+  },
+  {
+    "id": "cg-gpu-cate-62",
+    "nombre": "Placas de video cate 62",
+    "site": "compragamer",
+    "url": "https://compragamer.com/productos?sort=lower_price&cate=62",
+    "targetPrice": 460000,
+    "mandarMensajeSoloAlBajar": true,
+    "maxPages": 1,
+    "match": { "includes": [], "excludes": [] }
+  },
+  {
+    "id": "cg-ssd-cate-81",
+    "nombre": "SSD Compra Gamer 500gb NVMe",
+    "site": "compragamer",
+    "url": "https://compragamer.com/productos?sort=lower_price&cate=81&filtros=874:NVMe,172:500&marca=41",
+    "targetPrice": 140000,
+    "mandarMensajeSoloAlBajar": true,
+    "maxPages": 1,
+    "match": { "includes": [], "excludes": [] }
+  }
+]
